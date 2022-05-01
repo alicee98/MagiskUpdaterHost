@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "22.0",
+    "versionCode": "22000",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/Magisk-v22.0.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/22000.md"
+  },
+  "stub": {
+    "versionCode": "18",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/stub-release.apk"
+  }
+}
